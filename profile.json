@@ -1,14 +1,14 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Myzn_Eiji",
+		"label": "I'm an omnivorous animal",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
+		"email": "em711th@gmail.com",
+		"phone": "(hoge) fuga-piyo",
+		"website": "comming soon",
+		"twitter": "https://twitter.com/eiji_miyazono",
+		"facebook": "https://www.facebook.com/MyznEizibeendet",
+		"github": "https://github.com/MyznEiji",
 		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
 	},
 	"theme": {
